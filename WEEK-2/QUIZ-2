@@ -1,0 +1,141 @@
+WEEK-2 QUIZ-2
+
+Congratulations! You passed!
+TO PASS 75% or higher
+GRADE
+100%
+Materials, Lights, Behaviors, and Cameras
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+A texture is set as a property of a:
+
+1 / 1 point
+
+Game Asset
+
+
+Shader
+
+
+GameObject
+
+
+Material
+
+Correct
+That is correct. The shader has properties for the available texture maps, such as Albedo, Normal, Bump, Emission, etc. The shader is a property of a material.
+
+2.
+Question 2
+The vast beyond of the world that the player sees can be visually represented through a:
+
+1 / 1 point
+
+Skybox Material
+
+
+Horizon Effect
+
+
+Directional Lights
+
+Correct
+That is correct!  Skybox materials can be applied through the lighting window (or via a Skybox component on a camera) to represent the vast beyond of the game world.
+
+3.
+Question 3
+What type of light is most like a flashlight – projecting light in a certain direction from a specific point in space?
+
+1 / 1 point
+
+Point light
+
+
+Spot light
+
+
+Directional light
+
+
+Ambient light
+
+Correct
+That is correct. A spot light emits light from a specific location in a specific direction and has fall-off, much like a flashlight in the real-world.
+
+4.
+Question 4
+The main reason to NOT add a lot of lights into your game is:
+
+1 / 1 point
+
+The lights would make the game world too bright.
+
+
+The lights may slow the frame rate of the game.
+
+Correct
+Correct! It is processor intensive to calculate the visual effect of lights.  Therefore, limit the number of lights that you use in a game scene.
+
+5.
+Question 5
+When a script (aka, a behavior) is attached to a gameObject, it becomes a:
+
+1 / 1 point
+
+C​hild
+
+
+G​ame Asset
+
+
+gameObject
+
+
+Component
+
+Correct
+That is correct. Script become components of gameObjects when attached and are visible in the inspector.
+
+6.
+Question 6
+Isometric games typically use which type of 3D projection?
+
+1 / 1 point
+
+Orthographic
+
+
+Perspective
+
+Correct
+Yes. Orthographic projects maintains the same relative size of the object no mater how close or far away it is from the camera. This works very well for isometric games.
+
+7.
+Question 7
+GameObjects are only visible within a camera when they are located between the near and far clipping plane?
+
+1 / 1 point
+
+T​rue
+
+
+F​alse
+
+Correct
+Correct! The camera only renders gameObjects within the view frustum between the near and far clipping plane.
+
+8.
+Question 8
+The script editor that you are required to use in Unity is called Visual Studio.
+
+1 / 1 point
+
+True
+
+
+F​alse
+
+Correct
+T​hat is correct! Unity ships with Visual Studio Community (the free version of Visual Studio). However, you can set the external editor of scripts to be any script editing tool that you like to use.
