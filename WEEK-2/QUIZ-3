@@ -1,0 +1,129 @@
+WEEK-2 QUIZ-3 
+
+Congratulations! You passed!
+TO PASS 75% or higher
+GRADE
+100%
+Audio, Prefabs, Building, and Deploying
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+What component is like a microphone in the game world?
+
+1 / 1 point
+
+Audio Source
+
+
+Audio Listener
+
+Correct
+That is correct. The audio listener component is what picks up sound in 3D space. There can be only one audio listener active at one time. Audio listeners can be on any gameObject but are typically on the main camera.
+
+2.
+Question 2
+A good place to add game music is typically a gameObject that has the active audio listener component, such as the camera.
+
+1 / 1 point
+
+T​rue
+
+
+F​alse
+
+Correct
+Correct. You want the music to maintain a constant distance from the audio listener, so it is typically best to attach it to the gameObject that has the active audio listener. The main camera has an audio listener component by default, so this is a great place to add an audio source that plays the game music.
+
+3.
+Question 3
+A​ Prefab is a template for a gameObject:
+
+1 / 1 point
+
+T​rue
+
+
+F​alse
+
+Correct
+T​hat is correct! A Prefab is a template that you can use to instantiate gameObjects.
+
+4.
+Question 4
+When you add a new component to a gameObject, derived from a prefab, what happens immediately:
+
+1 / 1 point
+
+The gameObject changes and nothing happens to the prefab.
+
+
+The prefab is updated to reflect the change.
+
+
+Other gameObjects, derived from the prefab, are updated.
+
+Correct
+Correct. The prefab is not changed until you APPLY the changes on the gameObject back to the prefab.
+
+5.
+Question 5
+A Unity Project is contained within a single file in storage.
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+That is correct. A Unity project is contained in a project folder that contains subfolders for Assets, Library, and ProjectSettings.  Each subfolder contains a number of important files relate to the game project.
+
+6.
+Question 6
+When building a project in Unity for distribution, you should do all of the following EXCEPT:
+
+1 / 1 point
+
+Choose the distribution channel.
+
+
+Choose the build platform.
+
+
+Add the scenes in the build.
+
+
+Set the Player settings.
+
+Correct
+Correct. Setting the distribution channel is not part of the build process. While the distribution channel is important, you are not locked in to one channel during the Unity build process.
+
+7.
+Question 7
+Building for WebGL generates a single file that you can deploy to the web.
+
+1 / 1 point
+
+True.
+
+
+False.
+
+Correct
+Correct. Building for WebGL generates and HTML file, named index.html, as well as many more files (Javascript and asset files).
+
+8.
+Question 8
+You can build one application file that will work on both Windows and MacOS.
+
+1 / 1 point
+
+T​rue
+
+
+F​alse
+
+Correct
+T​hat is correct. You must create a separate build for each platform.
