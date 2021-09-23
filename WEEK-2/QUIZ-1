@@ -1,0 +1,150 @@
+WEEK-2 QUIZ-1
+
+Congratulations! You passed!
+TO PASS 75% or higher
+GRADE
+100%
+Working in 3D Space
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+A vector is a:
+
+1 / 1 point
+
+Location in space
+
+
+A displacement in space
+
+Correct
+Yes. A vector conveys both direction and magnitude.
+
+2.
+Question 2
+A transform contains all of the following, EXCEPT?
+
+1 / 1 point
+
+Mass
+
+
+Scale
+
+
+Rotation
+
+
+Position
+
+Correct
+That is correct. A transform does not contain mass. A transform contains position, rotation, and scale.
+
+3.
+Question 3
+The transform for a (child) gameObject that has a parent, shows its position relative to:
+
+1 / 1 point
+
+The parent gameObject’s origin
+
+
+The child gameObject’s origin
+
+
+The world origin
+
+Correct
+Correct! A child's transform information is shown relative to it's parent gameObject.
+
+4.
+Question 4
+What colors (in order) are X, Y, and Z-axes represented as typically?
+
+1 / 1 point
+
+Red, Green, Blue
+
+
+Blue, Red, Green
+
+
+White, Black, Grey
+
+
+Purple, Yellow, Orange
+
+Correct
+Correct. Remember the the phrase XYZ = RGB!
+
+5.
+Question 5
+The coordinate system in Unity is measured in:
+
+1 / 1 point
+
+Meters
+
+
+Centimeters
+
+
+Inches
+
+
+Feet
+
+Correct
+Yes. 1 unit = 1 meter in Unity's coordinate system.
+
+6.
+Question 6
+What is a quick way to move a gameObject back to the origin of its parent (or the world if no parent)?
+
+1 / 1 point
+
+Move the gameObject in the game view.
+
+
+Delete the gameObject and recreate it.
+
+
+Reset the transform component in the inspector.
+
+Correct
+Correct!  Resetting the transform component on the gameObject will move the gameObject to the world origin (0,0,0).  It will also set the rotation to (0,0,0) and the scale to (1,1,1).
+
+7.
+Question 7
+Where is the origin in a typical 2D bitmap graphic?
+
+1 / 1 point
+
+Center
+
+
+B​ottom-Right Corner
+
+
+T​op-Left Corner
+
+Correct
+T​hat is correct! 2D bitmaps typically has the origin in the top-left corner by default.
+
+8.
+Question 8
+Where is the origin in a typical 2D cartesian coordinate system?
+
+1 / 1 point
+
+T​op-Left Corner
+
+
+Center
+
+
+B​ottom-Right Corner
+
+Correct
+T​hat is correct! Cartesian coordinate systems, be they 2D or 3D, have the origin at the center of the world.
