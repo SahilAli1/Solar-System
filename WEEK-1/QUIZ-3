@@ -1,0 +1,167 @@
+WEEK-1 QUIZ-3
+
+
+Congratulations! You passed!
+TO PASS 75% or higher
+GRADE
+100%
+Game Engines and Unity Editor
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+The game engine we're using in this class is:
+
+1 / 1 point
+
+G​ame Maker
+
+
+G​odot
+
+
+Unity
+
+
+U​nreal
+
+Correct
+T​hat was an easy one. Yes, we are using Unity. It is one of the most popular game engines used in the industry today.
+
+2.
+Question 2
+All of the following are advantages of game engines EXCEPT:    
+
+1 / 1 point
+
+Others are using the engine so there is a community of
+knowledge available.
+
+
+Provide core functionality so you can focus on what is
+unique in your game.
+
+
+Allows you to access the hardware directly to achieve
+maximum performance.
+
+
+May allow you to move your game from one game platform to
+another easier.
+
+Correct
+This is one of the disadvantages to using a game engine. Often the game engine does not allow you to access the hardware directly.
+
+3.
+Question 3
+Game engines usually also come with:    
+
+1 / 1 point
+
+Game editor tools
+
+
+Engine source code
+
+
+Asset creation tools
+
+
+Project management tools
+
+Correct
+Yes, most modern game engines come with a game editor to make the process of building the game more visual in nature.
+
+4.
+Question 4
+In Unity, what are the elements in the scene view called?
+
+1 / 1 point
+
+Components
+
+
+Game Assets
+
+
+Game Models
+
+
+Game Objects
+
+Correct
+Yes. You assemble game objects in the scene view.  Game objects are the fundamental objects in Unity that represent characters, props, cameras, lights, and other elements that make up the scene or level of the game. Game objects are built out of game components, such as the transform or mesh renderer, and may reference game assets, such as 3D model or audio files.
+
+5.
+Question 5
+In Unity, you can see the files and folders that make up your game in the?    
+
+1 / 1 point
+
+Game View
+
+
+Hierarchy
+
+
+Project Panel
+
+
+Inspector
+
+Correct
+Yes. The project panel or project view shows the files and folders that make up your game. More specifically, it contains the files are folders that are held in your project's "Assets" folder.
+
+6.
+Question 6
+In Unity, the entire hierarchy (not just a selected element in the hierarchy) corresponds to what is in the?    
+
+1 / 1 point
+
+Inspector
+
+
+Scene
+
+
+Project Panel
+
+
+Components
+
+Correct
+Yes. The hierarchy shows all the game objects that are in the scene.
+
+7.
+Question 7
+T​he application that you use to install Unity and manage Unity projects is called:
+
+1 / 1 point
+
+T​he Unity Launcher
+
+
+T​he Unity Installer
+
+
+The U​nity Hub
+
+
+T​he Unity Project Manager
+
+Correct
+T​hat is correct!
+
+8.
+Question 8
+G​ame assets are essentially files in your Unity project asset folder?
+
+1 / 1 point
+
+T​rue
+
+
+F​alse
+
+Correct
+T​hat is correct! The files in the assets folder within your Unity project folder, become game assets within the Unity editor.
